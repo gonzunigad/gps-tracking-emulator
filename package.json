@@ -1,0 +1,19 @@
+{
+  "name": "gps-tracking-emulator",
+  "version": "0.1.0",
+  "description": "Gps Tracker emulator for gps-tracking node.js package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzunigad/gps-tracking-emulator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gps-tracking",
+    "emulator"
+  ],
+  "author": "Gonzalo De Spirito (gonzalo@freshworkstudio.com)",
+  "license": "MIT"
+}
